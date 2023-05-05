@@ -1,3 +1,3 @@
 # BiteBank
 
-Codigo backend com algumas regras de negocios básicas para a comprieensão de herança e encapsulamento.
+Codigo backend com algumas regras de negocios básicas para a compreensão de herança e encapsulamento.
